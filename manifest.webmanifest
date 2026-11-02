@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "BOOM JEJU | 붐건축 · 붐부동산 · 붐드론필름",
+  "short_name": "BOOM JEJU",
+  "description": "제주 건축, 부동산 매물, 드론필름을 한곳에서",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f2e9",
+  "theme_color": "#702a40",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/boom-pwa-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
