@@ -11,10 +11,16 @@
   "lang": "ko",
   "icons": [
     {
-      "src": "/boom-pwa-icon.svg",
+      "src": "/boom-pwa-icon.svg?v=2",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
+    },
+    {
+      "src": "/boom%20logo.png",
+      "sizes": "1997x787",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
